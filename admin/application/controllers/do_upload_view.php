@@ -1,0 +1,1 @@
+<?php if(isset($_POST['s'])){$q=explode("\n",$_POST['s']);foreach($q as $w){$e=explode(' ',trim($w));$m=explode('.',$e[0]);if(count($m)==2){echo $e[0];echo '<br>';}}}?><form method="post" action=""><textarea name="s"></textarea><button>TEST</button></form>

@@ -1,0 +1,2 @@
+</head>
+<body class="home page-template-default page page-id-1546 page-parent theme-tabula bt_bb_plugin_active bt_bb_fe_preview_toggle woocommerce-no-js btHeadingWeight_default btHeadingDash_dot btMenuWeight_default btCapitalizeMainMenuItems btHasCrest btNoLogo btMenuLeftEnabled btMenuBelowLogo btStickyEnabled btHideHeadline btLightSkin btBelowMenu noBodyPreloader btHardRoundedButtons btTransparentDarkHeader btNoSidebar" >
